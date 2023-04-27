@@ -1,9 +1,7 @@
 # 04-Coding-Quiz
 
 ## User Story
-AS A coding boot camp student
-I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
-SO THAT I can gauge my progress compared to my peers
+As a coding boot camp student I want to take a timed quiz on JavaScript fundamentals that stores high scores so that I can gauge my progress compared to my peers.
 
 ## Acceptance Criteria
 Given I am taking a code quiz, when I click the start button then a timer starts and I am presented with a question.
